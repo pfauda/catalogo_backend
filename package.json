@@ -21,7 +21,7 @@
     "filehound": "^1.16.4",
     "nodegit": "^0.23.0",
     "normalize-port": "^1.0.0",
-    "simple-git": "^1.107.0",
+    "simple-git": "^3.3.0",
     "xml-formatter": "^1.0.1",
     "xpdl": "^1.0.0"
   },
