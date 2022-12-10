@@ -14,9 +14,9 @@
   "license": "Unlicense",
   "dependencies": {
     "@types/nodegit": "^0.22.5",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "fast-xml-parser": "^3.12.12",
     "filehound": "^1.16.4",
     "nodegit": "^0.23.0",
